@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <cstdlib>
-#include <new>
 
 void problem_z_alokacja(){
 	std::cout<<"Wystapil problem z alokacja pamieci"<<std::endl;
