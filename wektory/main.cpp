@@ -32,15 +32,13 @@ void wektor2<T>::dodaj(wektor2<T>& obiekt){
 
 int main() {
 	wektor2<int> nowy_int;
-	wektor2<int> nowy_int2;
+//	wektor2<int> nowy_int2;
 	wektor2<float> nowy_float;
 //	wektor2<float> nowy_float2;
 	wektor2<double> nowy_double;
 //	wektor2<double> nowy_double2;
 	
-	nowy_int.dodaj(nowy_int2);
-	
-	nowy_int.wypisz();
+//	nowy_int.dodaj(nowy_int2);
 //	nowy_float.dodaj(nowy_float2);
 //	nowy_double.dodaj(nowy_double2);
 // zakomentowane bo z tresci zadania wynikaloby, ze samych dzialan na wektorach robic nie mamy
